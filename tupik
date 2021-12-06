@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="ru">
+	<head>
+		<title>Винцелович Лина</title>
+		<meta charset="utf-8">
+		<meta name="description" content="Страница Винцелович Лины">
+	</head>
+	<body bgcolor=#a0a0a0>
+		<div>
+			<a id="top"></a>
+		</div>
+		<p><a href="#top">наверх</a></p>
+		<h1 align="center"><font color=#ffffff>Винцелович Лина</font></h1>
+		<div>
+			<img src="Li.jpg" alt="фото" height="650" width="450">
+		</div>
+		<p><font color=#ffc0cb><b>Винцелович Лина</b> — студент 3-го курса БГУИР. Родилась <big>22 августа 2002 года</big> в городе Ошмяны. Окончила СШ №1 в 2019 году.<em> В 2016 году получила музыкальное образование по классу фортепиано.</em></font></p>
+		<h2 align="center"><font color=#ffffff>Интересы</font></h2>
+		<ul type="square">
+			<li>игра на фортепиано</li>
+			<li>пение</li>
+			<li>рисование</li>
+			<li>кулинария</li>
+			<li>программирование</li>
+		</ul>
+	<footer>
+		<p><a href="mailto:linavincelovic@gmail.com">e-mail</a></p>
+		<p><a href="N:/BSUIR/ЯП/HTML/пз1.html" target="_blank" title="ссылка">Документ</a></p>
+		<p><a href="#top">наверх</a></p>
+	</footer>		
+</body>
+	
+</html>
